@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1435918588 source:/home/pi/programs/hardware/LCDdriver/GlobalVariables.cpp
+
+1439582358 source:/home/pi/programs/hardware/LCDdriver/LCDdriver.cpp
+	"pi_mmio.h"
+	<time.h>
+	"LCDdriver.h"
+	<iostream>
+	<stdio.h>
+
+1435692166 /home/pi/programs/hardware/LCDdriver/pi_mmio.h
+	<stdint.h>
+
+1439578728 /home/pi/programs/hardware/LCDdriver/LCDdriver.h
+	"pi_mmio.h"
+	"Arial6vertical.h"
+	"Arial10vertical.h"
+
+1439394272 source:/home/pi/programs/hardware/LCDdriver/main.cpp
+	"LCDdriver.h"
+	"pi_mmio.h"
+	<iostream>
+
+1435954056 source:/home/pi/programs/hardware/LCDdriver/pi_mmio.cpp
+	<fcntl.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	"pi_mmio.h"
+
+1435918588 source:/home/pi/programs/hardware/LCDdriverCopy/GlobalVariables.cpp
+
+1436041923 source:/home/pi/programs/hardware/LCDdriverCopy/main.cpp
+	"LCDdriver.h"
+	"pi_mmio.h"
+
+1436524560 /home/pi/programs/hardware/LCDdriverCopy/LCDdriver.h
+
+1436524560 source:/home/pi/programs/hardware/LCDdriverCopy/LCDdriver.cpp
+	"pi_mmio.h"
+	<time.h>
+	"LCDdriver.h"
+
+1435692166 /home/pi/programs/hardware/LCDdriverCopy/pi_mmio.h
+	<stdint.h>
+
+1435954056 source:/home/pi/programs/hardware/LCDdriverCopy/pi_mmio.cpp
+	<fcntl.h>
+	<stdlib.h>
+	<string.h>
+	<sys/mman.h>
+	<sys/stat.h>
+	<sys/types.h>
+	<unistd.h>
+	"pi_mmio.h"
+
+1439322897 source:/home/pi/programs/hardware/LCDdriver/Arial6vertical.cpp
+	"Arial6vertical.h"
+
+1439314105 /home/pi/programs/hardware/LCDdriver/Arial6vertical.h
+	"fonts_def.h"
+
+1439328214 /home/pi/programs/hardware/LCDdriver/fonts_def.h
+	<inttypes.h>
+
+1439394246 source:/home/pi/programs/hardware/LCDdriver/Arial10vertical.cpp
+	"Arial10vertical.h"
+
+1439374716 /home/pi/programs/hardware/LCDdriver/Arial10vertical.h
+	"fonts_def.h"
+
